@@ -11,9 +11,9 @@ clf_opt = 'nb' for Naive Bayes classifier<br>
 clf_opt = 'lr' for Logistic Regression
 
 ## UnSupervised Learning
-Use n_clusters to change number of clusters (Use proposed model with n_clusters = 2)
-Set save_output = True to save the cluster predictions list to a .txt file
-Choose cls_opt to change the clustering algorithm. Accepted values are written against clustering algorithms below
+Use n_clusters to change number of clusters (Use proposed model with n_clusters = 2)<br>
+Set save_output = True to save the cluster predictions list to a .txt file<br>
+Choose cls_opt to change the clustering algorithm. Accepted values are written against clustering algorithms below<br>
 
 ### I have implemented 10 clustering algorithms:
 - K-Means Clustering Algorithm - 'kmeans'
